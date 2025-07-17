@@ -1,5 +1,5 @@
 ---
-id: publishing
+id: lucky_here_bby
 name: Publish a Game
 title: Publish a Game
 tags:
